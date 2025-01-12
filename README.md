@@ -12,7 +12,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center" class= "main"> 
-  <img src="https://i.ibb.co/h8fkrRF/In-Shot-20241129-183242921.jpg"width="300" height="300"/>
+  <img src="7ddf102eff50ff65f2fc484c8e905661"width="300" height="300"/>
 
 
   <MR NIMA>
